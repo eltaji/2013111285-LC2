@@ -1,0 +1,15 @@
+C:\Users\Jahusu\Documents\Visual Studio 2017\Projects\2013111285-LC2\2013111285-SLN\2013111285-PER\bin\Debug\2013111285-PER.dll.config
+C:\Users\Jahusu\Documents\Visual Studio 2017\Projects\2013111285-LC2\2013111285-SLN\2013111285-PER\bin\Debug\2013111285-PER.dll
+C:\Users\Jahusu\Documents\Visual Studio 2017\Projects\2013111285-LC2\2013111285-SLN\2013111285-PER\bin\Debug\2013111285-PER.pdb
+C:\Users\Jahusu\Documents\Visual Studio 2017\Projects\2013111285-LC2\2013111285-SLN\2013111285-PER\bin\Debug\2013111285-ENT.dll
+C:\Users\Jahusu\Documents\Visual Studio 2017\Projects\2013111285-LC2\2013111285-SLN\2013111285-PER\bin\Debug\EntityFramework.dll
+C:\Users\Jahusu\Documents\Visual Studio 2017\Projects\2013111285-LC2\2013111285-SLN\2013111285-PER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jahusu\Documents\Visual Studio 2017\Projects\2013111285-LC2\2013111285-SLN\2013111285-PER\bin\Debug\2013111285-ENT.pdb
+C:\Users\Jahusu\Documents\Visual Studio 2017\Projects\2013111285-LC2\2013111285-SLN\2013111285-PER\bin\Debug\EntityFramework.xml
+C:\Users\Jahusu\Documents\Visual Studio 2017\Projects\2013111285-LC2\2013111285-SLN\2013111285-PER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jahusu\Documents\Visual Studio 2017\Projects\2013111285-LC2\2013111285-SLN\2013111285-PER\obj\Debug\2013111285-PER.csprojResolveAssemblyReference.cache
+C:\Users\Jahusu\Documents\Visual Studio 2017\Projects\2013111285-LC2\2013111285-SLN\2013111285-PER\obj\Debug\_2013111285_PER.Migrations.AddInitialModel.resources
+C:\Users\Jahusu\Documents\Visual Studio 2017\Projects\2013111285-LC2\2013111285-SLN\2013111285-PER\obj\Debug\_2013111285_PER.Migrations.SecondModel.resources
+C:\Users\Jahusu\Documents\Visual Studio 2017\Projects\2013111285-LC2\2013111285-SLN\2013111285-PER\obj\Debug\2013111285-PER.csproj.GenerateResource.Cache
+C:\Users\Jahusu\Documents\Visual Studio 2017\Projects\2013111285-LC2\2013111285-SLN\2013111285-PER\obj\Debug\2013111285-PER.dll
+C:\Users\Jahusu\Documents\Visual Studio 2017\Projects\2013111285-LC2\2013111285-SLN\2013111285-PER\obj\Debug\2013111285-PER.pdb
